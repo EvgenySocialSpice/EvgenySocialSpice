@@ -1,4 +1,6 @@
-### Hi there 👋
+[![bg][banner]][website]
+### Hi there, I am Evgeny! 👋
+## I am web developer!
 
 
 - 🔭 I’m currently working on new project based on Flask Python
@@ -9,3 +11,7 @@
 - 📫 How to reach me: email: sacccp@gmail.com or (https://offtrend.co.za/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a Russian and have my own vodka distillery in South Africa
+
+🏡 [website][website] **|** 
+
+[banner]: https://offtrend.co.za/image/catalog/logo.png

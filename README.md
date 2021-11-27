@@ -1,6 +1,6 @@
-[![bg][banner]][website]
+[![bg][banner]
 ### Hi there, I am Evgeny! 👋
-## I am web developer!
+### I am web developer!
 
 
 - 🔭 I’m currently working on new project based on Flask Python
@@ -12,6 +12,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a Russian and have my own vodka distillery in South Africa
 
-🏡 [website][website] **|** 
+🏡 My latest projects:
+  - https://santehnika-comfort.ru/
+  - https://www.laserrenewyou.com/
+  - https://boerevennote.co.za/
+  - http://test-xfinity-myvea.tmweb.ru/
+  - https://golaaglasses.co.za/
+  - https://myvea.co.za/
+  - https://offtrend.co.za/
 
 [banner]: https://offtrend.co.za/image/catalog/logo.png

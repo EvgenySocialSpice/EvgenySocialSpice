@@ -10,16 +10,16 @@
 - 💬 Ask me about grid css and flexbox
 - 📫 How to reach me: email: sacccp@gmail.com or (https://offtrend.co.za/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a Russian and have my own vodka distillery in South Africa
 
 #### 🏡 My latest projects:
-  - https://siberianexpress.co.za/
-  - https://santehnika-comfort.ru/
-  - https://www.laserrenewyou.com/
-  - https://boerevennote.co.za/
-  - http://test-xfinity-myvea.tmweb.ru/
-  - https://golaaglasses.co.za/
-  - https://myvea.co.za/
-  - https://offtrend.co.za/
+ 
+https://myvea.co.za/
+https://offtrend.co.za/
+https://aadiamonds.offtrend.co.za/
+https://xfinity.myvea.co.za/
+https://siberianexpress.co.za/
+https://stevechadwick-notesintime.com/
+https://offtrend.co.za/
+https://santehnika-comfort.ru/)
 
 [banner]: https://offtrend.co.za/image/catalog/logo.png
